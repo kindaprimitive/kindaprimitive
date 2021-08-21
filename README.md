@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Yuen Chan. People call me Ray.
+
+I was a salesman. I was a construction surveyor.  I was an entrepreneur. 
+
+Today is 20/08/2021. And this is the day that I start my journey of becoming a web developer.
+
+There is always something new to learn in life.
+
+
+
 <!--
 **kindaprimitive/kindaprimitive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
